@@ -65,9 +65,9 @@ import HelloWorld from './components/HelloWorld.vue'
             <br>
             <ul class="list-disc">
             <li class="text-grey-200">PSR</li>
-            <li class="text-grey-200">SPE</li>
             <li class="text-grey-200">SSRU</li>
             <li class="text-grey-200">O'Level</li>
+            <li class="text-grey-200">Diploma in Web Development</li>
             </ul>
 
         </div>
