@@ -17,7 +17,6 @@ import HelloWorld from './components/HelloWorld.vue'
            <br>
            <p class="text-grey-200">Name: Batrisyia Safri</p>
            <p class="text-grey-200 ">Contact: 20FTT1444@student.pb.edu.bn</p>
-           <p>HelloWorld</p>
 
         </div>
       </div>
