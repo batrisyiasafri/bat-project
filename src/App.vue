@@ -26,7 +26,7 @@ import HelloWorld from './components/HelloWorld.vue'
             <h2 class="text-2xl font-bold underline">Interests</h2>
             <br>
             <ul class="list-disc">
-            <li class="text-grey-200">Learning PHP, Tailwind and Vue</li>
+            <li class="text-grey-200">Bahit was here</li>
             <li class="text-grey-200">Cooking Malaysian Cuisine</li>
             <li class="text-grey-200">Making Coffee</li>
             <li class="text-grey-200">Reading a History Book</li>
